@@ -1,0 +1,33 @@
+#p1_login {
+    background-color: fuchsia;
+    color: goldenrod;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#p2_login {
+    background-color: honeydew;
+    color: hotpink;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+body {
+    background: rgb(255, 217, 47);
+}
+
+#question {
+    background-color: lawngreen;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#num-input1,
+#num-input2 {
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
